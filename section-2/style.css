@@ -1,14 +1,14 @@
 body {
-  background: black;
+  background: pink;
 }
 
 #box {
   position: fixed;
-  bottom: 0;
+  top: 0;
   left: 50;
   width: 400px;
-  height: 50%;
-  background: blue;
+  height: 100%;
+  background: green;
 }
 
 /* DON'T DELETE THIS */
